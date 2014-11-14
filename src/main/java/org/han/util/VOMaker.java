@@ -5,7 +5,7 @@ import java.sql.ResultSetMetaData;
 public class VOMaker {
 	public static void main(String[] args) throws Exception{
 		
-		final String query = "select * from tbl_bbs where rownum =1";
+		final String query = "select * from tbl_reply where rownum =1";
 		
 		new SqlAgent(){
 
