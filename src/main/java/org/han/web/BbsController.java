@@ -12,4 +12,6 @@ public class BbsController {
 	private static final Logger logger = LoggerFactory
 			.getLogger(BbsController.class);
 
+	
+	추가
 }
